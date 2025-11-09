@@ -1,0 +1,5 @@
+# Runtime dependencies for Case Closed agent
+Flask>=2.0,<3.0
+requests>=2.25
+numpy>=1.21
+torch>=2.0

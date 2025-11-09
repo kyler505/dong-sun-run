@@ -5,7 +5,6 @@ This repository contains our agent submission for the Case Closed competition.
 ## Agent Architecture
 
 - **Hybrid DQN + Heuristic Approach**: Combines deep reinforcement learning with rule-based heuristics
-- **Territory-Focused Training**: Specialized training against territory-control opponents
 - **Multi-Strategy**: Adapts strategy based on game phase (early/mid/late game)
 
 ## Files
